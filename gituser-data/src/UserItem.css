@@ -1,0 +1,17 @@
+.usercard{
+    border: 2px solid;
+    padding: 10px;
+    margin: 12px;
+    min-width: 330px;
+    background: #ffffffe0;
+    border-radius: 10%;
+    transition: transform 0.2s ease-in-out;
+}
+.usercard:hover{
+    background-color: #007bff00;
+    transform: scale(1.05); /* Increase the size slightly on hover */
+}
+.userAvatar{
+    display: flex;
+    justify-content: center;
+}
