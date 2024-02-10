@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CBAssessment/gituser-data/static/css/main.36541465.css",
+    "main.js": "/CBAssessment/gituser-data/static/js/main.a31259ca.js",
+    "static/js/592.0bf60254.chunk.js": "/CBAssessment/gituser-data/static/js/592.0bf60254.chunk.js",
+    "index.html": "/CBAssessment/gituser-data/index.html",
+    "main.36541465.css.map": "/CBAssessment/gituser-data/static/css/main.36541465.css.map",
+    "main.a31259ca.js.map": "/CBAssessment/gituser-data/static/js/main.a31259ca.js.map",
+    "592.0bf60254.chunk.js.map": "/CBAssessment/gituser-data/static/js/592.0bf60254.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36541465.css",
+    "static/js/main.a31259ca.js"
+  ]
+}
