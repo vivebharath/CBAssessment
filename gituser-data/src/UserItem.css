@@ -9,7 +9,8 @@
 }
 .usercard:hover{
     background-color: #007bff00;
-    transform: scale(1.05); /* Increase the size slightly on hover */
+    transform: scale(1.05);
+    cursor: pointer;
 }
 .userAvatar{
     display: flex;
