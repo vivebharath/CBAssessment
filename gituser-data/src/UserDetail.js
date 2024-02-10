@@ -13,7 +13,6 @@ const UserDetails = () => {
         fetch(`https://api.github.com/users/${username}`)
             .then(response => response.json())
             .then(data => {
-                // Update the state with the fetched user details
                 setUserDetails(data);
             })
             .catch(error => console.error('Error fetching user details:', error));
